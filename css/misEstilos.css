@@ -1,0 +1,17 @@
+body {
+	background: #CBC6C6;
+}
+
+nav {
+	background: #2181AE;
+	position: fixed;
+	z-index: 1;
+}
+
+.enlinea{
+	display: inline-block;
+}
+
+.activador{
+	cursor: pointer;
+}
