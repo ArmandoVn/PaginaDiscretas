@@ -8,6 +8,10 @@ nav {
 	z-index: 1;
 }
 
+table {
+	color: #2181AE;
+}
+
 .enlinea{
 	display: inline-block;
 }
